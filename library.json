@@ -1,0 +1,22 @@
+{
+  "name": "MLX90614",
+  "version": "1.0.0",
+  "description": "MLX90614 infrared temperature sensor library for CH32V003j4m6",
+  "keywords": "ch32v003, CH32V003j4m6, mlx90614, temperature, sensor, infrared, i2c",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakir-abdo/CH32V003J4M6-mlx90614.git"
+  },
+  "authors": [
+    {
+      "name": "Shakir Abdo",
+      "email": "shicolare1@gmail.com",
+      "url": "https://github.com/shakir-abdo",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "ch32v003fun",
+  "platforms": "ch32v",
+  "headers": "mlx90614.h"
+}
