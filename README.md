@@ -1,5 +1,8 @@
 # MLX90614 Temperature Sensor Library for CH32V003j4m6
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform: CH32V003](https://img.shields.io/badge/Platform-CH32V003-blue.svg)](http://www.wch-ic.com/products/CH32V003.html)
+
 A library for interfacing the MLX90614 infrared temperature sensor with CH32V003j4m6 microcontroller.
 
 ## Features
